@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% Code written by Margaret Westwater & Kelly MJ Diederen
+% mw658@cam.ac.uk
+% November 2017
+% Department of Psychiatry, University of Cambridge
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
 function STRIvEMathsTaskNeutral(condition)
 
 %% Determine which condition
