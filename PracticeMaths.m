@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% Code written by Margaret Westwater & Kelly MJ Diederen
+% mw658@cam.ac.uk
+% November 2017
+% Department of Psychiatry, University of Cambridge
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
 clear all
 %% Determine which condition
 condition = 4; % can be 1,2,3,4,5,6 corresponding to worksheet in math_files_final_151017.xlsx 
